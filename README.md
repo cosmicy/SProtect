@@ -1,2 +1,2 @@
 # SProtect
-a soft protect system for software
+a soft protective system for software
